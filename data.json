@@ -7,7 +7,7 @@
             "technologies": "['Vanilla JavaScript','CSS','HTML']",
             "live_link": " https://minnja6.github.io/Project-1/",
             "github_link": "https://github.com/minnja6/Project-1",
-            "image_urls": ""
+            "image_urls": ["images/Project 1.PNG", "images/Project 1-2"]
         },
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "technologies": "['Vanilla JavaScript']",
             "live_link": " https://minnja6.github.io/Project-2/",
             "github_link": "https://github.com/minnja6/Project-2",
-            "image_urls": ""
+            "image_urls": ["images/Project 2.PNG", "images/Project 2-1"]
         },
         {
             "id": "2",
@@ -25,7 +25,7 @@
             "technologies": "['Vanilla JavaScript','CSS','HTML']",
             "live_link": "https://minnja6.github.io/Project-3/",
             "github_link": "https://github.com/minnja6/Project-3",
-            "image_urls": ""
+            "image_urls":["images/Project 3.PNG", "images/Project 3-2"]
         },
         {
             "id": "3",
@@ -34,7 +34,7 @@
             "technologies": "['Vanilla JavaScript','JQuery', 'CSS', 'HTML', 'OOP']",
             "live_link": "https://minnja6.github.io/Project-4/",
             "github_link": "https://github.com/minnja6/Project-4",
-            "image_urls": ""
+            "image_urls": ["images/Project 4.PNG", "images/Project 4-2"]
         },
         {
             "id": "4",
@@ -43,7 +43,7 @@
             "technologies": "['API','JavaScript', 'JQuery']",
             "live_link": "https://minnja6.github.io/Project-5/",
             "github_link": "https://github.com/minnja6/Project-5",
-            "image_urls": ""
+            "image_urls": ["images/Project 5.PNG", "images/Project 5-1"]
         }
     ]
 }
