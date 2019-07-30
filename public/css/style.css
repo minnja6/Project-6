@@ -31,11 +31,13 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: rgba(223, 15, 84, 0.966);
+  font-family: 'Merriweather';
 }
 
 .button:hover{
   background-color: #111;
+  text-transform: uppercase;
 }
 
 a{
@@ -59,7 +61,7 @@ a:hover{
 .portfolio-me{
   padding: 20px;
   background: #121213;
-  color: #fff;
+  color: rgba(223, 15, 84, 0.966);
   box-shadow: none !important;
 }
 
@@ -86,6 +88,7 @@ a:hover{
   margin: 0;
   padding: 20px;
   border-bottom: 1px solid #eaeaea;
+  background-color:black;
 }
 
  .portfolio-breadcrumb a{
@@ -95,11 +98,13 @@ a:hover{
    letter-spacing: 2.5px;
    -webkit-text-transform: uppercase;
    text-transform: uppercase;
+   color: rgba(223, 15, 84, 0.966);
  }
 
 .portfolio-intro{
   margin: 0;
   padding: 40px 50px 30px;
+  color: rgba(223, 15, 84, 0.966);
 }
 
 .portfolio-intro p{

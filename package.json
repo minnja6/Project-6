@@ -19,6 +19,7 @@
   "homepage": "https://github.com/minnja6/Project-6#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^1.19.1",
     "pug": "^2.0.4"
   }
 }

@@ -1,11 +1,7 @@
-extends layout.pug
+extends layout
 
 block content   
-    article(style="padding:4vmin;")
-        h2.error-title #{error.status} Error!
-        if (error.message)
-            div.error-message
-                p #{error.message}
-        if (error.stack)
-            div.error-stack
+    h1= error.message
+    h2= error.status
+    pre= error.stack
             
