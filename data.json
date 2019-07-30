@@ -4,8 +4,8 @@
             "id": 1,
             "project_name": "Random Quote Generator",
             "description": "Generates random quotes after a certain amount of time.",
-            "technologies": "['Vanilla JavaScript','CSS','HTML']",
-            "live_link": " https://minnja6.github.io/Project-1/",
+            "technologies": ["Vanilla", "JavaScript","CSS","HTML"],
+            "live_link": "https://minnja6.github.io/Project-1/",
             "github_link": "https://github.com/minnja6/Project-1",
             "image_urls": ["/static/images/Project 1.PNG", "/static/images/Project1-2.PNG"]
         },
@@ -13,37 +13,37 @@
             "id": 2,
             "project_name": "List Pagination and Filtering",
             "description": "Divides a long list of students into a series of pages to improve the user experience of the web page.",
-            "technologies": "['Vanilla JavaScript']",
+            "technologies": ["Vanilla JavaScript"],
             "live_link": " https://minnja6.github.io/Project-2/",
             "github_link": "https://github.com/minnja6/Project-2",
-            "image_urls": ["images/Project 2.PNG", "images/Project 2-1"]
+            "image_urls": ["/static/images/Project 2.PNG", "/static/images/Project 2-1.PNG"]
         },
         {
             "id": 3,
             "project_name": "Interactive Form",
             "description": "An enhanced form that is engaging, interactive, and easy to use.",
-            "technologies": "['Vanilla JavaScript','CSS','HTML']",
+            "technologies": ["Vanilla JavaScript","CSS","HTML"],
             "live_link": "https://minnja6.github.io/Project-3/",
             "github_link": "https://github.com/minnja6/Project-3",
-            "image_urls":["images/Project 3.PNG", "images/Project 3-2"]
+            "image_urls":["/static/images/Project 3.PNG", "/static/images/Project 3-2.PNG"]
         },
         {
             "id": 4,
             "project_name": "OOP Game Show App",
             "description": "A browser-based, word guessing game",
-            "technologies": "['Vanilla JavaScript','JQuery', 'CSS', 'HTML', 'OOP']",
+            "technologies": ["Vanilla JavaScript","JQuery","CSS","HTML","OOP"],
             "live_link": "https://minnja6.github.io/Project-4/",
             "github_link": "https://github.com/minnja6/Project-4",
-            "image_urls": ["images/Project 4.PNG", "images/Project 4-2"]
+            "image_urls": ["/static/images/Project 4.PNG", "/static/images/Project 4-2.PNG"]
         },
         {
             "id": 5,
             "project_name": "Public API Requests",
             "description": "An employee directory that communicats with a third-party Application Programming Interface.",
-            "technologies": "['API','JavaScript', 'JQuery']",
+            "technologies": ["API","JavaScript","JQuery"],
             "live_link": "https://minnja6.github.io/Project-5/",
             "github_link": "https://github.com/minnja6/Project-5",
-            "image_urls": ["images/Project 5.PNG", "images/Project 5-1"]
+            "image_urls": ["/static/images/Project 5.PNG", "/static/images/Project 5-1.PNG"]
         }
     ]
 }

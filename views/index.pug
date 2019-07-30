@@ -5,7 +5,7 @@ block content
     div
 
       //- Add a title or heading like My Portfolio, or Hey, Potential Employers, or Let's make the web great together! 
-      h1 My Portfolio
+      h1 Welcome To My Portfolio!
 
       //- Add a description for your portfolio, what this project is, it's purpose, what it's suppossed to accomplish, etc. 
       p.lead.text-light
@@ -17,6 +17,6 @@ block content
     each project in projects
       .cell
         a(href=`/projects/${project.id}`)
-          img.thumbnail(src=project.img)
+          img.thumbnail(src=`${project.image_urls}[1]`)
           h5= project.project_name
           br
