@@ -7,7 +7,8 @@
             "technologies": ["Vanilla", "JavaScript","CSS","HTML"],
             "live_link": "https://minnja6.github.io/Project-1/",
             "github_link": "https://github.com/minnja6/Project-1",
-            "image_urls": ["/static/images/Project 1-small.PNG", "/static/images/Project1-2.PNG"]
+            "image_urls": ["/static/images/Project 1.PNG", "/static/images/Project1-2.PNG"],
+            "small_image":["/static/images/Project1_small.PNG"]
         },
         {
             "id": 2,
@@ -16,7 +17,8 @@
             "technologies": ["Vanilla JavaScript"],
             "live_link": " https://minnja6.github.io/Project-2/",
             "github_link": "https://github.com/minnja6/Project-2",
-            "image_urls": ["/static/images/Project 2.PNG", "/static/images/Project 2-1.PNG"]
+            "image_urls": ["/static/images/Project 2.PNG", "/static/images/Project 2-1.PNG"],
+            "small_image":["/static/images/Project2_small.PNG"]
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "technologies": ["Vanilla JavaScript","CSS","HTML"],
             "live_link": "https://minnja6.github.io/Project-3/",
             "github_link": "https://github.com/minnja6/Project-3",
-            "image_urls":["/static/images/Project 3.PNG", "/static/images/Project 3-2.PNG"]
+            "image_urls":["/static/images/Project 3.PNG", "/static/images/Project 3-2.PNG"],
+            "small_image":["/static/images/Project3-small.PNG"]
         },
         {
             "id": 4,
@@ -34,7 +37,8 @@
             "technologies": ["Vanilla JavaScript","JQuery","CSS","HTML","OOP"],
             "live_link": "https://minnja6.github.io/Project-4/",
             "github_link": "https://github.com/minnja6/Project-4",
-            "image_urls": ["/static/images/Project 4.PNG", "/static/images/Project 4-2.PNG"]
+            "image_urls": ["/static/images/Project 4.PNG", "/static/images/Project 4-2.PNG"],
+            "small_image":["/static/images/Project4-small.PNG"]
         },
         {
             "id": 5,
@@ -43,7 +47,8 @@
             "technologies": ["API","JavaScript","JQuery"],
             "live_link": "https://minnja6.github.io/Project-5/",
             "github_link": "https://github.com/minnja6/Project-5",
-            "image_urls": ["/static/images/Project 5.PNG", "/static/images/Project 5-1.PNG"]
+            "image_urls": ["/static/images/Project 5.PNG", "/static/images/Project 5-1.PNG"],
+            "small_image":["/static/images/Project5-small.PNG"]
         }
     ]
 }
