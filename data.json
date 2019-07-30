@@ -7,7 +7,7 @@
             "technologies": ["Vanilla", "JavaScript","CSS","HTML"],
             "live_link": "https://minnja6.github.io/Project-1/",
             "github_link": "https://github.com/minnja6/Project-1",
-            "image_urls": ["/static/images/Project 1.PNG", "/static/images/Project1-2.PNG"]
+            "image_urls": ["/static/images/Project 1-small.PNG", "/static/images/Project1-2.PNG"]
         },
         {
             "id": 2,
